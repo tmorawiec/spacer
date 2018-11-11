@@ -1,3 +1,7 @@
+# Spacer app
+Youtube vue course:
+<https://youtu.be/A2rEhxkFPDw>
+
 # spacer
 
 ## Project setup
